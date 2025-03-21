@@ -46,9 +46,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-
-
-
 ?>
 <!-- UI -->
 
@@ -146,7 +143,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <?php endforeach; ?>
                 <?php endif; ?>
             </ul>
-
         </div>
     </div>
 </body>
