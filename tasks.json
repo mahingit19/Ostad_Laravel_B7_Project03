@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Task 01 Reading",
+        "done": true
+    },
+    {
+        "task": "Task 02 Writing",
+        "done": true
+    },
+    {
+        "task": "Task 03 Sleeping",
+        "done": false
+    }
+]
